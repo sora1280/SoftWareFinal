@@ -1,0 +1,2 @@
+['Joy/Sadness/Anticipation/Surprise/Anger/Fear/Disgust/Trust']
+[0 1 0 0 0 0 0 0]
